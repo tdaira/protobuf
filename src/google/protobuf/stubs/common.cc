@@ -97,8 +97,6 @@ std::string ProtocVersionString(int version) {
 
 Closure::~Closure() {}
 
-namespace internal { FunctionClosure0::~FunctionClosure0() {} }
-
 void DoNothing() {}
 
 // ===================================================================
